@@ -1,0 +1,19 @@
+21:36:35:633	2980	
+21:36:35:664	2980	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+21:36:35:665	2980	บ            Claymore CryptoNote GPU Miner  v9.7 Beta            บ
+21:36:35:666	2980	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+21:36:35:886	2980	XMR: 1 pool is specified
+21:36:35:888	2980	Main pool is superiorcoinpool.com:3333
+21:36:36:735	2980	
+Cards available: 1 
+21:36:36:736	2980	GPU #0: name: Iceland, 4096 MB available, 6 units 
+21:36:36:737	2980	Total cards: 1 
+21:36:36:739	2980	Initializing...
+
+21:36:36:739	2980	card 0, m1 4096, m2 2880 w 48
+21:36:36:742	2980	0 m = 2
+21:36:36:743	2980	GPU #0: HashCnt = 192
+21:36:36:744	2980	POOL version
+21:36:36:745	2980	b155
+21:36:37:955	2980	GPU #0: -a 4 mode selected
+21:36:44:283	3754	ADL: Cannot find any AMD adapters

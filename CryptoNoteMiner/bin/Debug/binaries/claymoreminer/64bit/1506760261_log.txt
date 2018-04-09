@@ -1,0 +1,169 @@
+02:31:01:307	3360	
+02:31:01:309	3360	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+02:31:01:311	3360	บ            Claymore CryptoNote GPU Miner  v9.7 Beta            บ
+02:31:01:312	3360	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+02:31:01:566	3360	XMR: 1 pool is specified
+02:31:01:567	3360	Main pool is superiorcoinpool.com:5555
+02:31:04:740	3360	
+Cards available: 1 
+02:31:04:741	3360	GPU #0: name: Iceland, 4096 MB available, 6 units 
+02:31:04:742	3360	Total cards: 1 
+02:31:04:746	3360	Initializing...
+
+02:31:04:747	3360	card 0, m1 4096, m2 2880 w 48
+02:31:04:749	3360	0 m = 2
+02:31:04:751	3360	GPU #0: HashCnt = 192
+02:31:04:752	3360	POOL version
+02:31:04:753	3360	b155
+02:31:06:943	3360	GPU #0: -a 4 mode selected
+02:31:16:904	3360	1 pool specified.
+02:31:16:905	3360	Remote management (READ-ONLY MODE) is enabled on port 3333
+02:31:16:936	37d0	Stratum - connecting to 'superiorcoinpool.com' <52.168.91.103> port 5555 (unsecure)
+02:31:16:997	37d0	send: {"method": "login", "params": {"login": "5RqVbguSJ56WPwDX4RMtQDYnmoHYCRi8GbBptye2PD9TeA1529k2HoJ5PUGxo89PtZHqfobf8hgeN27afeFyvz7AFQwwF1H", "pass": "x", "agent": "xmr/1.0"}, "id": 1}
+
+02:31:16:998	37d0	Stratum - Connected (unsecure)
+02:31:16:999	37d0	New connection: reset total hashes counters
+02:31:17:001	194c	DevFee: Stratum - connecting to 'xmr.suprnova.cc' <145.239.65.23> port 5222 (unsecure)
+02:31:17:074	37d0	got 303 bytes
+02:31:17:075	37d0	buf: {"id":1,"jsonrpc":"2.0","error":null,"result":{"id":"337444484024308","job":{"blob":"0405deabbdce05865e9e0d834d208d1c73e8d5a8181cf06e6964ec6ea82d5d5ecaff1d4a9eaf8300000000d3b15c301c5b57c47f165780e45dad5f94fff842bcc36dedd0f89e0bf2e1c75502","job_id":"132612170767970","target":"169f0200"},"status":"OK"}}
+
+02:31:17:077	37d0	parse packet: 303
+02:31:17:078	37d0	new buf size: 0
+02:31:17:079	37d0	Pool Diff 25000.1
+02:31:17:112	1984	Round
+02:31:17:141	194c	send: {"method": "login", "params": {"login": "claymore.cnfee", "pass": "x", "agent": "xmr/1.0"}, "id": 1}
+
+02:31:17:142	194c	Stratum - Connected (unsecure)
+02:31:17:291	194c	got 303 bytes
+02:31:17:292	194c	buf: {"id":1,"jsonrpc":"2.0","error":null,"result":{"id":"724378416128456","job":{"blob":"0606a0abbdce0593553fd2cf6e32d481fd55de2134c35699633534bf8c0fb075b4c03468d1ca4200000000677a003ecf2e564b5ad1d5aaba673a9cdf4ce762ac432e24992c33d9aede2bff06","job_id":"920914100343361","target":"b88d0600"},"status":"OK"}}
+
+02:31:17:293	194c	parse packet: 303
+02:31:17:294	194c	new buf size: 0
+02:31:17:295	194c	DevFee: Pool Diff 10000
+02:31:18:916	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:31:19:907	3360	ADL: Cannot find any AMD adapters
+02:31:20:899	18a0	GPU 0: HashCnt = 192, time = 3707 ms, hashrate = 51 h/s 
+02:31:20:906	18a0	Round
+02:31:22:167	37d0	got 253 bytes
+02:31:22:168	37d0	buf: {"jsonrpc":"2.0","method":"job","params":{"blob":"0405daacbdce05b401d7f7efce4308e90710e9d1e6539fec63156328e01cd0f239d2a4290bc464000000001c2d94f6965f7c589d9ad76e24009d55f99b282dd2c63a195566bc0a547a0dff01","job_id":"397779049770906","target":"169f0200"}}
+
+02:31:22:170	37d0	parse packet: 253
+02:31:22:171	37d0	new buf size: 0
+02:31:22:172	37d0	09/30/17-02:31:22 - New job received from superiorcoinpool.com:5555
+02:31:22:173	37d0	Speed: 51 h/s, Total Shares: 0, Rejected: 0, Mining time:
+02:31:22:175	37d0	00:00
+02:31:22:177	37d0	TotalHashes: 0K, DevHashes: 0K, DevFee rate is 1:39
+02:31:22:807	1984	Job changed, drop current round
+02:31:22:808	18a0	Job changed, drop current round
+02:31:22:810	18a0	Round
+02:31:22:910	3360	ADL: Cannot find any AMD adapters
+02:31:25:913	3360	ADL: Cannot find any AMD adapters
+02:31:27:281	1984	GPU 0: HashCnt = 192, time = 4379 ms, hashrate = 43 h/s 
+02:31:27:288	1984	Round
+02:31:28:914	3360	ADL: Cannot find any AMD adapters
+02:31:28:919	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:31:31:099	18a0	GPU 0: HashCnt = 192, time = 3736 ms, hashrate = 51 h/s 
+02:31:31:106	18a0	Round
+02:31:31:916	3360	ADL: Cannot find any AMD adapters
+02:31:34:919	3360	ADL: Cannot find any AMD adapters
+02:31:37:921	3360	ADL: Cannot find any AMD adapters
+02:31:38:921	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:31:40:923	3360	ADL: Cannot find any AMD adapters
+02:31:43:925	3360	ADL: Cannot find any AMD adapters
+02:31:46:927	3360	ADL: Cannot find any AMD adapters
+02:31:46:929	3360	ADL: Cannot find any AMD adapters
+02:31:46:931	3360	watchdog - thread 0, hb time 19641
+02:31:46:932	3360	watchdog - thread 1, hb time 15828
+02:31:48:186	194c	got 253 bytes
+02:31:48:187	194c	buf: {"jsonrpc":"2.0","method":"job","params":{"blob":"0606a0abbdce0593553fd2cf6e32d481fd55de2134c35699633534bf8c0fb075b4c03468d1ca4200000000188b1a17af7e5448f036a8787519f6c3401fdf0752dcc4399c44df67340f5f7306","job_id":"588168368628248","target":"711b0d00"}}
+
+02:31:48:188	194c	parse packet: 253
+02:31:48:189	194c	new buf size: 0
+02:31:48:191	194c	DevFee: 09/30/17-02:31:48 - New job received from xmr.suprnova.cc:5222
+02:31:48:924	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:31:49:934	3360	ADL: Cannot find any AMD adapters
+02:31:52:936	3360	ADL: Cannot find any AMD adapters
+02:31:55:938	3360	ADL: Cannot find any AMD adapters
+02:31:58:926	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:31:58:940	3360	ADL: Cannot find any AMD adapters
+02:32:01:942	3360	ADL: Cannot find any AMD adapters
+02:32:04:944	3360	ADL: Cannot find any AMD adapters
+02:32:07:604	1984	GPU 0: HashCnt = 192, time = 35770 ms, hashrate = 5 h/s 
+02:32:07:609	1984	Round
+02:32:07:946	3360	ADL: Cannot find any AMD adapters
+02:32:08:929	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:32:10:948	3360	ADL: Cannot find any AMD adapters
+02:32:11:425	18a0	GPU 0: HashCnt = 192, time = 3740 ms, hashrate = 51 h/s 
+02:32:11:431	18a0	Round
+02:32:13:950	3360	ADL: Cannot find any AMD adapters
+02:32:15:246	1984	GPU 0: HashCnt = 192, time = 3739 ms, hashrate = 51 h/s 
+02:32:15:252	1984	Round
+02:32:16:952	3360	ADL: Cannot find any AMD adapters
+02:32:16:954	3360	ADL: Cannot find any AMD adapters
+02:32:16:955	3360	watchdog - thread 0, hb time 1703
+02:32:16:956	3360	watchdog - thread 1, hb time 5516
+02:32:18:934	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:32:19:958	3360	ADL: Cannot find any AMD adapters
+02:32:22:960	3360	ADL: Cannot find any AMD adapters
+02:32:25:962	3360	ADL: Cannot find any AMD adapters
+02:32:28:936	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:32:28:964	3360	ADL: Cannot find any AMD adapters
+02:32:29:736	194c	got 253 bytes
+02:32:29:737	194c	buf: {"jsonrpc":"2.0","method":"job","params":{"blob":"06069dadbdce0538a4181ef3e24d5fd9ad1d73b036f51c208389aa2bf5aef96b2bf14c5019659500000000b60a02a692b1ccdc196098033eb612d590ef15d1a87f54f17f682453556aebfa0c","job_id":"464205605164170","target":"711b0d00"}}
+
+02:32:29:739	194c	parse packet: 253
+02:32:29:740	194c	new buf size: 0
+02:32:29:741	194c	DevFee: 09/30/17-02:32:29 - New job received from xmr.suprnova.cc:5222
+02:32:31:967	3360	ADL: Cannot find any AMD adapters
+02:32:34:969	3360	ADL: Cannot find any AMD adapters
+02:32:37:971	3360	ADL: Cannot find any AMD adapters
+02:32:38:939	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:32:40:973	3360	ADL: Cannot find any AMD adapters
+02:32:43:975	3360	ADL: Cannot find any AMD adapters
+02:32:44:673	18a0	GPU 0: HashCnt = 192, time = 28833 ms, hashrate = 6 h/s 
+02:32:44:679	18a0	Round
+02:32:46:977	3360	ADL: Cannot find any AMD adapters
+02:32:46:979	3360	ADL: Cannot find any AMD adapters
+02:32:46:980	3360	watchdog - thread 0, hb time 31734
+02:32:46:981	3360	watchdog - thread 1, hb time 2297
+02:32:48:493	1984	GPU 0: HashCnt = 192, time = 3739 ms, hashrate = 51 h/s 
+02:32:48:499	1984	Round
+02:32:48:941	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:32:49:984	3360	ADL: Cannot find any AMD adapters
+02:32:52:314	18a0	GPU 0: HashCnt = 192, time = 3739 ms, hashrate = 51 h/s 
+02:32:52:319	18a0	Round
+02:32:52:986	3360	ADL: Cannot find any AMD adapters
+02:32:55:988	3360	ADL: Cannot find any AMD adapters
+02:32:56:135	1984	GPU 0: HashCnt = 192, time = 3739 ms, hashrate = 51 h/s 
+02:32:56:142	1984	Round
+02:32:58:944	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:32:58:990	3360	ADL: Cannot find any AMD adapters
+02:32:59:955	18a0	GPU 0: HashCnt = 192, time = 3738 ms, hashrate = 51 h/s 
+02:32:59:961	18a0	Round
+02:33:01:992	3360	ADL: Cannot find any AMD adapters
+02:33:03:775	1984	GPU 0: HashCnt = 192, time = 3738 ms, hashrate = 51 h/s 
+02:33:03:781	1984	Round
+02:33:04:994	3360	ADL: Cannot find any AMD adapters
+02:33:07:596	18a0	GPU 0: HashCnt = 192, time = 3739 ms, hashrate = 51 h/s 
+02:33:07:603	18a0	Round
+02:33:07:996	3360	ADL: Cannot find any AMD adapters
+02:33:08:946	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:33:10:998	3360	ADL: Cannot find any AMD adapters
+02:33:11:416	1984	GPU 0: HashCnt = 192, time = 3738 ms, hashrate = 51 h/s 
+02:33:11:423	1984	Round
+02:33:14:000	3360	ADL: Cannot find any AMD adapters
+02:33:15:236	18a0	GPU 0: HashCnt = 192, time = 3738 ms, hashrate = 51 h/s 
+02:33:15:242	18a0	Round
+02:33:17:002	3360	ADL: Cannot find any AMD adapters
+02:33:17:003	3360	ADL: Cannot find any AMD adapters
+02:33:17:005	3360	watchdog - thread 0, hb time 5579
+02:33:17:006	3360	watchdog - thread 1, hb time 1750
+02:33:18:949	2218	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+02:33:19:057	1984	GPU 0: HashCnt = 192, time = 3739 ms, hashrate = 51 h/s 
+02:33:19:064	1984	Round
+02:33:20:008	3360	ADL: Cannot find any AMD adapters
+02:33:22:878	18a0	GPU 0: HashCnt = 192, time = 3738 ms, hashrate = 51 h/s 
+02:33:22:884	18a0	Round
+02:33:23:010	3360	ADL: Cannot find any AMD adapters
+02:33:26:012	3360	ADL: Cannot find any AMD adapters
+02:33:26:283	30cc	ADL: Cannot find any AMD adapters

@@ -1,0 +1,45 @@
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\ccminer\64bit\ccminer.exe
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\ccminer\64bit\cudart32_65.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\ccminer\64bit\pthreadVC2.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\claymoreminer\64bit\NsGpuCNMiner.exe
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\claymoreminer\64bit\Remote manager\EthMan.exe
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\cpuminer\64bit\libcurl.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\cpuminer\64bit\libeay32.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\cpuminer\64bit\libgcc_s_seh-1.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\cpuminer\64bit\libstdc++-6.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\cpuminer\64bit\libwinpthread-1.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\cpuminer\64bit\minerd.exe
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\cpuminer\64bit\ssleay32.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\cpuminer\64bit\zlib1.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\simplewallet\64bit\simplewallet.exe
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\config.ini
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\claymoreminer\64bit\Data.bin
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\claymoreminer\64bit\Remote manager\sample.bat
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\VFCNMiner.exe.config
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\VFCNMiner.exe
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\VFCNMiner.pdb
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\DotNetBrowser.Chromium.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\DotNetBrowser.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\DotNetBrowser.xml
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.FRMINICIOSUPERIORCOIN.resources
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.frmStats.resources
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.Main.resources
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.Properties.Resources.resources
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.csproj.GenerateResource.Cache
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.exe
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.pdb
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\VFCNMiner.exe.config
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.exe
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.pdb
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\binaries\simplewallet\64bit\simplewallet.exe
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\config.ini
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\DotNetBrowser.Chromium.dll
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\DotNetBrowser.dll
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\DotNetBrowser.xml
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.FRMINICIOSUPERIORCOIN.resources
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.frmStats.resources
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.Main.resources
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.Properties.Resources.resources
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\obj\Debug\VFCNMiner.csproj.GenerateResource.Cache
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\VFCNMiner.exe
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\CryptoNoteMiner\bin\Debug\VFCNMiner.pdb

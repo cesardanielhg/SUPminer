@@ -1,0 +1,60 @@
+00:23:25:326	1950	
+00:23:25:327	1950	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+00:23:25:328	1950	บ            Claymore CryptoNote GPU Miner  v9.7 Beta            บ
+00:23:25:329	1950	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+00:23:25:536	1950	XMR: 1 pool is specified
+00:23:25:540	1950	Main pool is superiorcoinpool.com:5555
+00:23:26:650	1950	
+Cards available: 1 
+00:23:26:651	1950	GPU #0: name: Iceland, 4096 MB available, 6 units 
+00:23:26:652	1950	Total cards: 1 
+00:23:26:653	1950	Initializing...
+
+00:23:26:653	1950	card 0, m1 4096, m2 2880 w 48
+00:23:26:674	1950	0 m = 2
+00:23:26:676	1950	GPU #0: HashCnt = 192
+00:23:26:677	1950	POOL version
+00:23:26:677	1950	b155
+00:23:29:039	1950	GPU #0: -a 4 mode selected
+00:23:40:649	1950	1 pool specified.
+00:23:40:651	1950	Remote management (READ-ONLY MODE) is enabled on port 3333
+00:23:40:675	1ea0	Stratum - connecting to 'superiorcoinpool.com' <52.168.91.103> port 5555 (unsecure)
+00:23:40:738	1ea0	send: {"method": "login", "params": {"login": "5RqVbguSJ56WPwDX4RMtQDYnmoHYCRi8GbBptye2PD9TeA1529k2HoJ5PUGxo89PtZHqfobf8hgeN27afeFyvz7AFQwwF1H", "pass": "x", "agent": "xmr/1.0"}, "id": 1}
+
+00:23:40:741	1ea0	Stratum - Connected (unsecure)
+00:23:40:743	1ea0	New connection: reset total hashes counters
+00:23:40:760	2010	DevFee: Stratum - connecting to 'us-east.cryptonight-hub.miningpoolhub.com' <172.104.143.224> port 20580 (SSL/TLS)
+00:23:40:817	1ea0	got 303 bytes
+00:23:40:818	1ea0	buf: {"id":1,"jsonrpc":"2.0","error":null,"result":{"id":"935363594070077","job":{"blob":"040595f0bcce05aae3e248e3c7a47fec14fa61337e84dce7c103d73e6dae7a915a1aedaca4512d000000003541cc55e9c910459473710aa038a6e57aa42a0091124ca62bff55f7ee120a9f02","job_id":"797528371401131","target":"169f0200"},"status":"OK"}}
+
+00:23:40:820	1ea0	parse packet: 303
+00:23:40:822	1ea0	new buf size: 0
+00:23:40:824	1ea0	Pool Diff 25000.1
+00:23:40:854	66c	Round
+00:23:41:253	2010	cert subject: /O=mph
+00:23:41:256	2010	cert issuer: /O=mph
+00:23:41:259	2010	SSL/TLS encryption is enabled
+00:23:41:261	2010	send: {"method": "login", "params": {"login": "claymore.cnfee", "pass": "x", "agent": "xmr/1.0"}, "id": 1}
+
+00:23:41:264	2010	Stratum - Connected (SSL/TLS)
+00:23:41:435	2010	got 303 bytes
+00:23:41:436	2010	buf: {"id":1,"jsonrpc":"2.0","error":null,"result":{"id":"991217261226847","job":{"blob":"0606ebf0bcce058951dd98a117d4847f0972126171602d86d4a327388f7d835f3a3de06db9d8820000000092a36a6bafb64acb950c19965c155ed0764843cde1f86c32a1f48d24a787a6d308","job_id":"561275729676708","target":"8d210000"},"status":"OK"}}
+
+00:23:41:437	2010	parse packet: 303
+00:23:41:438	2010	new buf size: 0
+00:23:41:439	2010	DevFee: Pool Diff 500054
+00:23:42:657	286c	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+00:23:43:653	1950	ADL: Cannot find any AMD adapters
+00:23:44:534	16a8	GPU 0: HashCnt = 192, time = 3600 ms, hashrate = 53 h/s 
+00:23:44:543	16a8	Round
+00:23:46:655	1950	ADL: Cannot find any AMD adapters
+00:23:48:329	66c	GPU 0: HashCnt = 192, time = 3712 ms, hashrate = 51 h/s 
+00:23:48:334	66c	Round
+00:23:49:658	1950	ADL: Cannot find any AMD adapters
+00:23:52:122	16a8	GPU 0: HashCnt = 192, time = 3713 ms, hashrate = 51 h/s 
+00:23:52:128	16a8	Round
+00:23:52:659	286c	server: bind failed with error: 10048 (port is busy, use different -mport value), next attempt in 10sec...
+00:23:55:662	1950	ADL: Cannot find any AMD adapters
+00:23:55:916	66c	GPU 0: HashCnt = 192, time = 3713 ms, hashrate = 51 h/s 
+00:23:55:923	66c	Round
+00:23:56:669	3580	ADL: Cannot find any AMD adapters

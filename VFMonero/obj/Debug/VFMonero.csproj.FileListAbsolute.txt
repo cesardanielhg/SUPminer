@@ -1,0 +1,19 @@
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\VFMonero\bin\Debug\VFMonero.exe.config
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\VFMonero\bin\Debug\VFMonero.exe
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\VFMonero\bin\Debug\VFMonero.pdb
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\VFMonero\bin\Debug\MaterialSkin.dll
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\VFMonero\obj\Debug\VFMonero.Main.resources
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\VFMonero\obj\Debug\VFMonero.Properties.Resources.resources
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\VFMonero\obj\Debug\VFMonero.csproj.GenerateResource.Cache
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\VFMonero\obj\Debug\VFMonero.exe
+C:\Users\Jefrin Aguilar\Desktop\vf-cryptonote-miner-master\VFMonero\obj\Debug\VFMonero.pdb
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\VFMonero\bin\Debug\VFMonero.exe.config
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\VFMonero\bin\Debug\VFMonero.exe
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\VFMonero\bin\Debug\VFMonero.pdb
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\VFMonero\bin\Debug\MaterialSkin.dll
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\VFMonero\obj\Debug\VFMonero.Main.resources
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\VFMonero\obj\Debug\VFMonero.Properties.Resources.resources
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\VFMonero\obj\Debug\VFMonero.csproj.GenerateResource.Cache
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\VFMonero\obj\Debug\VFMonero.exe
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\VFMonero\obj\Debug\VFMonero.pdb
+C:\Users\Jefrin Aguilar\Desktop\Trabajos Jefrin\vf-cryptonote-miner-master\VFMonero\obj\Debug\VFMonero.csprojResolveAssemblyReference.cache
